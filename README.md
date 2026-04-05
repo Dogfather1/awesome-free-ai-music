@@ -6,15 +6,16 @@
 
 - [Music Libraries](#music-libraries)
 - [APIs](#apis)
+- [Generation Models & Tools](#generation-models--tools)
 - [Upload Platforms](#upload-platforms)
-- [Tools for Creators](#tools-for-creators)
 - [Blogs & Guides](#blogs--guides)
 - [Genre-Specific](#genre-specific)
+- [Legal & Compliance](#legal--compliance)
 - [Related Lists](#related-lists)
 
 ## Music Libraries
 
-- **[FreeMusicLab.ai](https://freemusiclab.ai)** — 2,000+ free AI-generated tracks, sound effects, and images. No copyright, no signup, commercial use allowed. Includes free developer API and user upload support.
+- **[FreeMusicLab.ai](https://freemusiclab.ai)** — 2,000+ free AI-generated tracks, SFX, and images. First-party tracks generated with Google Lyria (licensed). Royalty-free, no Content ID claims, free developer API, user upload support.
 - **[YouTube Audio Library](https://studio.youtube.com/channel/UC/music)** — Free (with attribution) tracks for YouTube creators.
 - **[Pixabay Music](https://pixabay.com/music/)** — Free music for commercial use (mixed AI + traditional).
 
@@ -22,13 +23,13 @@
 
 - **[FreeMusicLab API](https://freemusiclab.ai/docs)** — Free music API, no auth for read endpoints. 2,000+ royalty-free tracks. Code examples: [freemusiclab-api-examples](https://github.com/Dogfather1/freemusiclab-api-examples)
 
+## Generation Models & Tools
+
+- **[Google Lyria](https://deepmind.google/technologies/lyria/)** — Google's licensed music generation model (Vertex AI / Gemini API). Commercial use permitted under Google's Gen AI Terms. SynthID watermarks included.
+
 ## Upload Platforms
 
-- **[FreeMusicLab Upload](https://freemusiclab.ai/upload)** — Share your own AI-generated music with the community. Free hosting, creator credit, optional API exposure.
-
-## Tools for Creators
-
-- **[FreeMusicLab Blog](https://freemusiclab.ai/blog)** — Guides on using free music legally, Content ID avoidance, and API integration.
+- **[FreeMusicLab Upload](https://freemusiclab.ai/upload)** — Share your own AI-generated music (Lyria or equivalent licensed models). Free hosting, creator credit, optional API exposure.
 
 ## Blogs & Guides
 
@@ -47,6 +48,13 @@
 - **Sleep/Ambient**: [FreeMusicLab sleep](https://freemusiclab.ai/free-sleep-music)
 - **Sound Effects**: [FreeMusicLab SFX](https://freemusiclab.ai/free-sound-effects)
 
+## Legal & Compliance
+
+- **[Google Generative AI Terms](https://policies.google.com/terms/generative-ai)** — the ToS that governs commercial-use rights for Lyria outputs
+- **[FreeMusicLab License](https://freemusiclab.ai/license)** — free-use terms with full generation-source attribution
+- **[SynthID](https://deepmind.google/technologies/synthid/)** — Google's AI-content watermark, automatically embedded in Lyria outputs
+- **[YouTube AI disclosure guide](https://support.google.com/youtube/answer/14328491)** — required labeling for altered/synthetic content
+
 ## Related Lists
 
 - [awesome-creator-tools](https://github.com/topics/creator-tools)
@@ -54,7 +62,7 @@
 
 ## Contributing
 
-Contributions welcome! Please read the [contribution guidelines](./CONTRIBUTING.md) first.
+Contributions welcome! Please read the [contribution guidelines](./CONTRIBUTING.md) first. Only resources with clear commercial-use licensing are accepted.
 
 ## License
 
