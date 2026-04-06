@@ -55,6 +55,28 @@
 - **[SynthID](https://deepmind.google/technologies/synthid/)** — Google's AI-content watermark, automatically embedded in Lyria outputs
 - **[YouTube AI disclosure guide](https://support.google.com/youtube/answer/14328491)** — required labeling for altered/synthetic content
 
+
+## JINRO Music on Streaming Platforms
+
+All tracks by JINRO Music are available on major streaming platforms. Listen, save, and share:
+
+| Track | HyperFollow (all platforms) |
+|-------|---------------------------|
+| Raindrop Latte | [Listen](https://distrokid.com/hyperfollow/jinromusic/raindrop-latte) |
+| Afternoon Without Umbrella | [Listen](https://distrokid.com/hyperfollow/jinromusic/afternoon-without-umbrella) |
+| Window Seat | [Listen](https://distrokid.com/hyperfollow/jinromusic/window-seat) |
+| Rainy Alley Cafe | [Listen](https://distrokid.com/hyperfollow/jinromusic/rainy-alley-cafe) |
+| Espresso Raindrops | [Listen](https://distrokid.com/hyperfollow/jinromusic/espresso-raindrops) |
+| Under Grey Skies | [Listen](https://distrokid.com/hyperfollow/jinromusic/under-grey-skies) |
+| Gangnam Night Street | [Listen](https://distrokid.com/hyperfollow/jinromusic/gangnam-night-street) |
+| Seoul Night View | [Listen](https://distrokid.com/hyperfollow/jinromusic/seoul-night-view) |
+| Hongdae Neon | [Listen](https://distrokid.com/hyperfollow/jinromusic/hongdae-neon) |
+| Inside The Taxi | [Listen](https://distrokid.com/hyperfollow/jinromusic/inside-the-taxi) |
+| Euljiro Jazz Bar | [Listen](https://distrokid.com/hyperfollow/jinromusic/euljiro-jazz-bar) |
+| On The Han River Bridge | [Listen](https://distrokid.com/hyperfollow/jinromusic/on-the-han-river-bridge) |
+
+> More tracks coming soon. Generated with Google Lyria, distributed by DistroKid.
+
 ## Related Lists
 
 - [awesome-creator-tools](https://github.com/topics/creator-tools)
